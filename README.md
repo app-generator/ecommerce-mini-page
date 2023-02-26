@@ -2,6 +2,9 @@
 
 Playground project for eCommerce. 
 
+<br />
+
+![Ecommerce Mini Page - Product & Cart](https://user-images.githubusercontent.com/51070104/221405760-afc8557f-22de-418e-9bd1-e6e386e84a23.gif)
 
 <br />
 
